@@ -1,0 +1,17 @@
+{
+  "name": "omni-forge-novel",
+  "version": "1.0.0",
+  "description": "Omni Forge Novel V1.0 — Hệ thống viết tiểu thuyết bằng AI. FORGE+C 2.0 (7 bước), OIF Infinity Loop (6 phases), Hội đồng Nacharium (5/13 vai), 12 kỹ thuật cấp cao, 738 kỹ thuật văn học, 96 yếu tố, 8 prompts, chẩn đoán 10+ bệnh. Tiếng Việt + song ngữ.",
+  "keywords": [
+    "novel-writing",
+    "ai-writing",
+    "forge",
+    "nacharium",
+    "oif",
+    "vietnamese",
+    "creative-writing",
+    "tiểu-thuyết"
+  ],
+  "author": "Mr Nấng / Nacharium / Tiểu Tâm",
+  "license": "MIT"
+}
